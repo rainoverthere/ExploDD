@@ -4,6 +4,14 @@ This repository provides a quick-start guide for running explosion detection on 
 
 ---
 
+## Demo Video
+
+<video src="demo_25fps_400x_slow_motion.mp4" controls width="100%"></video>
+
+[View the demo video](demo_25fps_400x_slow_motion.mp4)
+
+---
+
 ## Environment Setup
 
 1. **Obtain Prophesee SDK 4.6.2**
