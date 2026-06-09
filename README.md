@@ -6,9 +6,9 @@ This repository provides a quick-start guide for running explosion detection on 
 
 ## Demo Video
 
-<video src="demo_25fps_400x_slow_motion.mp4" controls width="100%"></video>
+[![Demo preview](demo_25fps_400x_slow_motion_preview.gif)](demo_25fps_400x_slow_motion.mp4)
 
-[View the demo video](demo_25fps_400x_slow_motion.mp4)
+[View or download the MP4 demo](demo_25fps_400x_slow_motion.mp4)
 
 ---
 
